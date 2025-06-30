@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayvezz&label=Profile%20views&color=0e75b6&style=flat" alt="dayvezz" /> </p>
 
-- 👯 I’m looking to collaborate on **ReactJs**
-
 - 📫 How to reach me [abhijitdebofficial@gmail.com](abhijitdebofficial@gmail.com)
 
 - 🤝 I’m looking for help with **communities and developers**

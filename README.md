@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **communities and developers**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 Currently learning **Full Stack Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
